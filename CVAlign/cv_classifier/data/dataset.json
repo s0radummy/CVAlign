@@ -1,0 +1,602 @@
+[
+  {
+    "cv_text": "George Peters is a software developer with 10 years of experience. Skilled in MongoDB, REST APIs, AWS, TensorFlow, FastAPI. Has worked in roles involving Docker at Jones, Coleman and Jones, CI/CD at Jones, Coleman and Jones, MongoDB at Nguyen PLC, Git at Bailey Group, FastAPI at Newton-Pennington. Educational background: Emergency planning/management officer graduate from English Inc University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, CI/CD, Docker, Python. Must have strong collaboration and software development skills.",
+    "score": 0.76,
+    "label": 1
+  },
+  {
+    "cv_text": "Brandon Cole is a software developer with 7 years of experience. Skilled in Data Analysis, PyTorch, Agile, Django, Kubernetes. Has worked in roles involving TensorFlow at Martinez Group, Git at Johnson and Sons, REST APIs at Martinez Group, FastAPI at Serrano PLC, SQL at Martinez Group. Educational background: Amenity horticulturist graduate from Nguyen-King University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, Python, Machine Learning, React. Must have strong collaboration and software development skills.",
+    "score": 0.85,
+    "label": 1
+  },
+  {
+    "cv_text": "Tony Johnson is a software developer with 8 years of experience. Skilled in Django, SQL, CI/CD, PyTorch, Flask. Has worked in roles involving PyTorch at Strickland, Cox and Baker, Flask at Cook Ltd, PyTorch at Guerra LLC, Flask at Barber LLC, Docker at Ruiz-Lewis. Educational background: Librarian, academic graduate from Burke-Wilson University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, CI/CD, React, Machine Learning. Must have strong collaboration and software development skills.",
+    "score": 0.63,
+    "label": 1
+  },
+  {
+    "cv_text": "April Olsen is a software developer with 10 years of experience. Skilled in Django, React, Git, Docker, REST APIs. Has worked in roles involving MongoDB at Martin-Hall, Agile at Nelson LLC, AWS at Martin-Hall, Data Analysis at Proctor, Mosley and Snyder, Machine Learning at Estes Inc. Educational background: Photographer graduate from Kirk-Nichols University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in AWS, REST APIs, Machine Learning, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.47,
+    "label": 0
+  },
+  {
+    "cv_text": "Joseph Hammond is a software developer with 10 years of experience. Skilled in SQL, REST APIs, Kubernetes, React, Python. Has worked in roles involving AWS at Moore Inc, AWS at Taylor-Evans, SQL at Arias Ltd, Django at Perkins-Simon, Python at Perkins-Simon. Educational background: Community education officer graduate from Mcdonald and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, FastAPI, Agile, Python. Must have strong collaboration and software development skills.",
+    "score": 0.41,
+    "label": 0
+  },
+  {
+    "cv_text": "Richard Mccarty is a software developer with 4 years of experience. Skilled in PyTorch, SQL, FastAPI, Node.js, Kubernetes. Has worked in roles involving Node.js at Ray-Green, Node.js at Stanley-Rivera, Kubernetes at Meadows Ltd, Docker at Coffey Ltd, Scrum at Sanford LLC. Educational background: Printmaker graduate from Tucker, Hatfield and King University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, React, FastAPI, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.94,
+    "label": 1
+  },
+  {
+    "cv_text": "Nathan Higgins is a software developer with 10 years of experience. Skilled in Git, SQL, Scrum, Django, Agile. Has worked in roles involving SQL at Brown, Walker and Hunter, AWS at Rosales-Hernandez, TensorFlow at Martinez, Howard and Morris, Agile at Rosales-Hernandez, SQL at Martinez, Howard and Morris. Educational background: Therapist, art graduate from Allen Ltd University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, Python, REST APIs, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.79,
+    "label": 1
+  },
+  {
+    "cv_text": "Theresa Dawson is a software developer with 6 years of experience. Skilled in PyTorch, Django, TensorFlow, CI/CD, Data Analysis. Has worked in roles involving CI/CD at Cole, Smith and Smith, MongoDB at Cole, Smith and Smith, Git at Woods Group, React at Mcgee, Williams and Henry, CI/CD at Jackson, Marshall and Mccarthy. Educational background: Mudlogger graduate from Kennedy, Bryant and Hall University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, Python, Machine Learning, React. Must have strong collaboration and software development skills.",
+    "score": 0.67,
+    "label": 1
+  },
+  {
+    "cv_text": "Miranda Klein is a software developer with 6 years of experience. Skilled in MongoDB, REST APIs, Git, CI/CD, SQL. Has worked in roles involving CI/CD at Holt-Miller, REST APIs at Stuart-Bell, Python at Holt-Miller, FastAPI at Black PLC, Flask at Holt-Miller. Educational background: Pilot, airline graduate from Paul, Edwards and Murray University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, REST APIs, Python, Machine Learning. Must have strong collaboration and software development skills.",
+    "score": 0.61,
+    "label": 1
+  },
+  {
+    "cv_text": "Austin Sanders is a software developer with 10 years of experience. Skilled in REST APIs, Data Analysis, Machine Learning, Flask, Git. Has worked in roles involving AWS at Duffy LLC, Python at Rodriguez, Martin and Curtis, Node.js at Flores Ltd, TensorFlow at Duffy LLC, Data Analysis at Rodriguez, Martin and Curtis. Educational background: Designer, blown glass/stained glass graduate from Anderson Ltd University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, AWS, SQL, React. Must have strong collaboration and software development skills.",
+    "score": 0.66,
+    "label": 1
+  },
+  {
+    "cv_text": "Mallory Ferrell is a software developer with 7 years of experience. Skilled in MongoDB, CI/CD, Scrum, REST APIs, TensorFlow. Has worked in roles involving Flask at Moreno and Sons, CI/CD at Kim-Johnson, Agile at Jensen Inc, Django at Kim-Johnson, Git at Perez, Wong and Garner. Educational background: Records manager graduate from Zamora, Brown and Rocha University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, React, Python, FastAPI. Must have strong collaboration and software development skills.",
+    "score": 0.46,
+    "label": 0
+  },
+  {
+    "cv_text": "Charles Farrell DDS is a software developer with 2 years of experience. Skilled in Python, PyTorch, AWS, CI/CD, Kubernetes. Has worked in roles involving Python at Carr Inc, Flask at Armstrong-Anderson, FastAPI at Rhodes, Morales and Jenkins, Scrum at Taylor-Mueller, TensorFlow at Marshall Ltd. Educational background: Associate Professor graduate from Abbott-Anderson University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, Machine Learning, Python, FastAPI. Must have strong collaboration and software development skills.",
+    "score": 0.74,
+    "label": 1
+  },
+  {
+    "cv_text": "Tracy Smith is a software developer with 10 years of experience. Skilled in Machine Learning, Data Analysis, PyTorch, Node.js, TensorFlow. Has worked in roles involving PyTorch at Vincent-Kennedy, TensorFlow at Richardson LLC, Machine Learning at Martin Group, Flask at Reeves Ltd, Git at Velasquez LLC. Educational background: Engineering geologist graduate from Jones, Dixon and Rodriguez University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, FastAPI, SQL, React. Must have strong collaboration and software development skills.",
+    "score": 0.56,
+    "label": 0
+  },
+  {
+    "cv_text": "Amber Armstrong is a software developer with 9 years of experience. Skilled in Scrum, SQL, Python, PyTorch, Kubernetes. Has worked in roles involving PyTorch at Smith-Vaughn, CI/CD at Davidson Ltd, SQL at Conway, Garza and Powell, Python at Smith-Watkins, Machine Learning at Smith-Watkins. Educational background: Horticultural consultant graduate from Atkinson-Shaw University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Machine Learning, React, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.93,
+    "label": 1
+  },
+  {
+    "cv_text": "Daniel Baird is a software developer with 2 years of experience. Skilled in Flask, PyTorch, Scrum, Node.js, Docker. Has worked in roles involving React at Rivera-Robinson, Git at Love, Roberts and Hart, SQL at Love, Roberts and Hart, Git at Price Group, Node.js at Sellers, Lopez and Brady. Educational background: Animal nutritionist graduate from King Group University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, SQL, REST APIs, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.34,
+    "label": 0
+  },
+  {
+    "cv_text": "Tammy Summers is a software developer with 10 years of experience. Skilled in PyTorch, MongoDB, SQL, Flask, Docker. Has worked in roles involving Machine Learning at Bass-Durham, Python at Finley Ltd, PyTorch at Bass-Durham, Data Analysis at Smith and Sons, SQL at Peterson-Garcia. Educational background: Research officer, trade union graduate from Solomon, Campbell and Morrison University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, AWS, REST APIs, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.9,
+    "label": 1
+  },
+  {
+    "cv_text": "Kimberly Dennis is a software developer with 5 years of experience. Skilled in Docker, Scrum, Python, Data Analysis, AWS. Has worked in roles involving Node.js at Shepard-Smith, Agile at Green Inc, Docker at Green Ltd, FastAPI at Green Ltd, AWS at Bennett-Hall. Educational background: Radio producer graduate from Finley PLC University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, REST APIs, Machine Learning, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.78,
+    "label": 1
+  },
+  {
+    "cv_text": "Gavin Cobb is a software developer with 1 years of experience. Skilled in Django, Scrum, Python, SQL, MongoDB. Has worked in roles involving MongoDB at Gomez-Compton, Data Analysis at Pham, Stewart and Warren, MongoDB at Day Ltd, Flask at Pham, Stewart and Warren, PyTorch at Gomez-Compton. Educational background: Adult guidance worker graduate from Nash and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, Docker, REST APIs, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.87,
+    "label": 1
+  },
+  {
+    "cv_text": "Tina Wheeler is a software developer with 3 years of experience. Skilled in Data Analysis, Machine Learning, Agile, AWS, REST APIs. Has worked in roles involving Django at Smith-Valdez, Data Analysis at Stephens Group, Git at Smith-Valdez, Docker at Holmes Inc, FastAPI at Ruiz, Hendricks and Jensen. Educational background: Teacher, English as a foreign language graduate from Garcia, Norman and Davis University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, React, CI/CD, Python. Must have strong collaboration and software development skills.",
+    "score": 0.9,
+    "label": 1
+  },
+  {
+    "cv_text": "Ronald Sims is a software developer with 8 years of experience. Skilled in Kubernetes, Python, Docker, TensorFlow, CI/CD. Has worked in roles involving TensorFlow at Spencer, Keller and Adams, Git at Padilla Inc, SQL at Hall, Lara and Berg, Git at Foster-Paul, Docker at Norman PLC. Educational background: Clothing/textile technologist graduate from Bass and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, SQL, CI/CD, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.8,
+    "label": 1
+  },
+  {
+    "cv_text": "Dr. Rebecca Sampson is a software developer with 4 years of experience. Skilled in TensorFlow, PyTorch, MongoDB, Django, Node.js. Has worked in roles involving Data Analysis at Holland Ltd, Agile at Cannon Ltd, FastAPI at Roberts, Arroyo and Tyler, Flask at Pineda Ltd, Git at Jones LLC. Educational background: Animal nutritionist graduate from Wright-Mendoza University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, React, Agile, FastAPI. Must have strong collaboration and software development skills.",
+    "score": 0.33,
+    "label": 0
+  },
+  {
+    "cv_text": "Gerald Rubio is a software developer with 4 years of experience. Skilled in Agile, Flask, Scrum, FastAPI, Node.js. Has worked in roles involving Python at Butler, Scott and Hayes, CI/CD at Lee-Carlson, Flask at Jones, Hicks and Mccoy, Node.js at Lee-Carlson, Agile at Sanchez-Wilson. Educational background: Education administrator graduate from Hawkins Group University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, FastAPI, Agile, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.86,
+    "label": 1
+  },
+  {
+    "cv_text": "Samantha Bruce is a software developer with 2 years of experience. Skilled in Machine Learning, Python, Agile, PyTorch, AWS. Has worked in roles involving TensorFlow at Garcia, Dixon and Duke, Data Analysis at Garcia, Dixon and Duke, Node.js at Mckay, Guzman and Smith, React at Moore Inc, Kubernetes at Ellis LLC. Educational background: Market researcher graduate from Miller Inc University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in AWS, Agile, FastAPI, Machine Learning. Must have strong collaboration and software development skills.",
+    "score": 0.7,
+    "label": 1
+  },
+  {
+    "cv_text": "Brandon Kemp is a software developer with 5 years of experience. Skilled in FastAPI, PyTorch, AWS, Docker, TensorFlow. Has worked in roles involving Agile at Horn, Montgomery and Zimmerman, Docker at Miller Inc, Node.js at White Inc, Git at Mcdonald, Reeves and Valentine, CI/CD at King LLC. Educational background: Database administrator graduate from Ochoa, Becker and Day University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, Agile, Machine Learning, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.39,
+    "label": 0
+  },
+  {
+    "cv_text": "Adam Thomas is a software developer with 2 years of experience. Skilled in MongoDB, Node.js, Django, PyTorch, Scrum. Has worked in roles involving Scrum at Smith, Young and Ewing, Agile at Preston, Koch and Henry, Django at Smith, Young and Ewing, React at Harrison-Cox, FastAPI at Garcia, Ali and Sanchez. Educational background: Wellsite geologist graduate from Wright, Hawkins and Rodriguez University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, FastAPI, Machine Learning, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.3,
+    "label": 0
+  },
+  {
+    "cv_text": "Sherry Mitchell is a software developer with 4 years of experience. Skilled in Django, Agile, Scrum, AWS, Docker. Has worked in roles involving Flask at Williams-Rhodes, Django at Collins PLC, FastAPI at Davenport, Lee and Horn, SQL at Armstrong, Clark and Watkins, Scrum at Carter Ltd. Educational background: Engineer, maintenance (IT) graduate from Ray Inc University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, React, SQL, Python. Must have strong collaboration and software development skills.",
+    "score": 0.34,
+    "label": 0
+  },
+  {
+    "cv_text": "Christian Bates is a software developer with 5 years of experience. Skilled in Python, PyTorch, REST APIs, TensorFlow, Git. Has worked in roles involving Django at Robinson, Logan and Holmes, Scrum at Moore, Spencer and Sanders, React at Bryan-Curtis, PyTorch at Moore, Spencer and Sanders, CI/CD at Carlson-Lawrence. Educational background: Data scientist graduate from Murphy, Mueller and Berger University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Python, SQL, React. Must have strong collaboration and software development skills.",
+    "score": 0.66,
+    "label": 1
+  },
+  {
+    "cv_text": "Jeffrey Carr is a software developer with 6 years of experience. Skilled in TensorFlow, CI/CD, Data Analysis, Django, React. Has worked in roles involving Django at Lloyd, Brady and Garcia, AWS at Moran LLC, FastAPI at Moran LLC, Kubernetes at Smith and Sons, Scrum at Bartlett, Johnson and Mckenzie. Educational background: Surveyor, mining graduate from Whitney, Morris and Mendez University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in REST APIs, Agile, Machine Learning, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.89,
+    "label": 1
+  },
+  {
+    "cv_text": "Laura Stewart is a software developer with 6 years of experience. Skilled in Django, AWS, REST APIs, Docker, Machine Learning. Has worked in roles involving FastAPI at Stokes-Hendrix, Agile at Adams-Hayes, AWS at Kramer-Warren, FastAPI at Adams-Hayes, React at Lopez, Lutz and Wilson. Educational background: Insurance account manager graduate from Wallace, Jefferson and Murphy University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, REST APIs, CI/CD, FastAPI. Must have strong collaboration and software development skills.",
+    "score": 0.83,
+    "label": 1
+  },
+  {
+    "cv_text": "David Brown is a software developer with 6 years of experience. Skilled in Python, PyTorch, TensorFlow, Agile, Node.js. Has worked in roles involving Git at Curtis LLC, CI/CD at Vincent-Meyer, SQL at Hays Group, SQL at Evans, Reyes and Blair, TensorFlow at Kim LLC. Educational background: Information systems manager graduate from Holmes-Sullivan University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Agile, Python, React, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.83,
+    "label": 1
+  },
+  {
+    "cv_text": "Amy Rodriguez is a software developer with 2 years of experience. Skilled in Docker, TensorFlow, Agile, Node.js, Git. Has worked in roles involving Data Analysis at Hopkins, Taylor and Morrow, Docker at Hurley Inc, Python at Wade, Martin and Maldonado, Python at Wade, Martin and Maldonado, FastAPI at Mcmillan-Johnson. Educational background: Systems developer graduate from Sanders, Jimenez and Garcia University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Agile, SQL, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.67,
+    "label": 1
+  },
+  {
+    "cv_text": "Danielle Burns is a software developer with 4 years of experience. Skilled in CI/CD, Scrum, React, MongoDB, Flask. Has worked in roles involving Django at Downs-Nelson, MongoDB at Downs-Nelson, Machine Learning at Duncan LLC, Django at Duncan LLC, REST APIs at Wolf-Nguyen. Educational background: International aid/development worker graduate from Martinez LLC University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Agile, REST APIs, CI/CD, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.86,
+    "label": 1
+  },
+  {
+    "cv_text": "Scott Francis is a software developer with 3 years of experience. Skilled in Git, Machine Learning, SQL, React, TensorFlow. Has worked in roles involving Django at Price Inc, Agile at Hernandez-Doyle, React at Simon-Garcia, Agile at Arnold Inc, AWS at Lloyd, Estrada and Young. Educational background: Engineer, drilling graduate from Wagner PLC University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Python, Docker, React. Must have strong collaboration and software development skills.",
+    "score": 0.72,
+    "label": 1
+  },
+  {
+    "cv_text": "Suzanne Mason is a software developer with 10 years of experience. Skilled in Kubernetes, Docker, Data Analysis, SQL, Python. Has worked in roles involving SQL at Martin-Wright, React at Brown Inc, Django at Howell PLC, Node.js at Peters, Reynolds and Pitts, Machine Learning at Butler LLC. Educational background: Outdoor activities/education manager graduate from Howard-Fitzpatrick University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, Agile, SQL, Python. Must have strong collaboration and software development skills.",
+    "score": 0.5,
+    "label": 0
+  },
+  {
+    "cv_text": "Gregory Snyder is a software developer with 4 years of experience. Skilled in Flask, FastAPI, SQL, AWS, REST APIs. Has worked in roles involving React at Kennedy, Scott and Brown, Agile at Fisher, Jefferson and Brown, REST APIs at Clark, Collier and Dean, Python at Combs PLC, Git at King-Smith. Educational background: Immigration officer graduate from Ross Inc University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, Docker, Agile, React. Must have strong collaboration and software development skills.",
+    "score": 0.79,
+    "label": 1
+  },
+  {
+    "cv_text": "Erica Hamilton is a software developer with 6 years of experience. Skilled in Django, AWS, Kubernetes, PyTorch, React. Has worked in roles involving PyTorch at Huynh and Sons, Django at Mcgee-Madden, REST APIs at Mcgee-Madden, MongoDB at Cline PLC, Flask at Reynolds-Forbes. Educational background: Exhibitions officer, museum/gallery graduate from Sparks, Roberts and Walters University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, CI/CD, REST APIs, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.6,
+    "label": 1
+  },
+  {
+    "cv_text": "John Smith is a software developer with 2 years of experience. Skilled in Flask, Machine Learning, Docker, Node.js, REST APIs. Has worked in roles involving TensorFlow at George, Cross and Hughes, FastAPI at Mccoy, Mcintosh and Thomas, Kubernetes at Kim, Smith and Wagner, Git at George, Cross and Hughes, Agile at Carey-Marshall. Educational background: Designer, graphic graduate from Frank, Becker and White University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Agile, REST APIs, SQL, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.37,
+    "label": 0
+  },
+  {
+    "cv_text": "Kenneth Solomon is a software developer with 10 years of experience. Skilled in Agile, TensorFlow, Python, Data Analysis, Machine Learning. Has worked in roles involving React at Anderson, Watkins and Riley, REST APIs at Black, Hughes and Horton, REST APIs at Weaver Inc, REST APIs at Anderson, Watkins and Riley, FastAPI at Hernandez Ltd. Educational background: IT trainer graduate from Hancock and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Docker, Python, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.41,
+    "label": 0
+  },
+  {
+    "cv_text": "Rebecca Francis is a software developer with 5 years of experience. Skilled in Node.js, Kubernetes, Flask, Agile, TensorFlow. Has worked in roles involving Agile at Vega Inc, CI/CD at Valentine, Joseph and Tucker, Flask at Harrison, Hall and Santos, Python at Harris-Simmons, React at Smith Ltd. Educational background: Retail buyer graduate from Reyes Inc University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, Docker, FastAPI, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.77,
+    "label": 1
+  },
+  {
+    "cv_text": "Sarah Fields is a software developer with 7 years of experience. Skilled in PyTorch, Docker, SQL, Data Analysis, TensorFlow. Has worked in roles involving SQL at Hall Ltd, Python at Rosario and Sons, Data Analysis at Stark-Hoffman, Kubernetes at Kim, Reyes and Wright, Django at Kim, Reyes and Wright. Educational background: Research scientist (physical sciences) graduate from Mitchell-Reed University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, Docker, CI/CD, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.32,
+    "label": 0
+  },
+  {
+    "cv_text": "Micheal Sanchez is a software developer with 2 years of experience. Skilled in MongoDB, Kubernetes, Scrum, Agile, Python. Has worked in roles involving REST APIs at Klein-Johnson, MongoDB at Brock-Day, Flask at Murray-Palmer, TensorFlow at Lyons PLC, AWS at Franklin Inc. Educational background: Senior tax professional/tax inspector graduate from Hughes-Houston University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, REST APIs, CI/CD, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.95,
+    "label": 1
+  },
+  {
+    "cv_text": "Lisa Mcbride is a software developer with 7 years of experience. Skilled in Django, MongoDB, REST APIs, PyTorch, Machine Learning. Has worked in roles involving FastAPI at Duncan Inc, Docker at Leach-Proctor, MongoDB at Hatfield-Medina, Django at Mcbride LLC, Kubernetes at Duncan Inc. Educational background: Therapist, sports graduate from Fowler and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, FastAPI, SQL, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.66,
+    "label": 1
+  },
+  {
+    "cv_text": "Jose Smith is a software developer with 1 years of experience. Skilled in Node.js, Docker, Agile, MongoDB, FastAPI. Has worked in roles involving Git at Diaz-Hamilton, Flask at Gentry-King, FastAPI at Diaz-Hamilton, SQL at Hayes-Butler, Django at Anderson-Hogan. Educational background: Accounting technician graduate from Lee-Peters University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in AWS, Machine Learning, Docker, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.46,
+    "label": 0
+  },
+  {
+    "cv_text": "Marcus Smith is a software developer with 7 years of experience. Skilled in FastAPI, Agile, REST APIs, SQL, Kubernetes. Has worked in roles involving FastAPI at Stewart and Sons, CI/CD at Perez, Chaney and Brown, Docker at Carroll-Copeland, Node.js at Glass-Gonzalez, Kubernetes at Glass-Gonzalez. Educational background: Research scientist (life sciences) graduate from Black and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Agile, FastAPI, REST APIs, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.42,
+    "label": 0
+  },
+  {
+    "cv_text": "Adam Nelson is a software developer with 7 years of experience. Skilled in Machine Learning, CI/CD, Django, Data Analysis, Agile. Has worked in roles involving MongoDB at Wood Group, Python at Jackson-Morris, React at Miller, Lee and Collins, Git at Webster, Kane and Miller, SQL at Vance-Hart. Educational background: Theatre director graduate from Davis-Martin University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, FastAPI, AWS, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.56,
+    "label": 0
+  },
+  {
+    "cv_text": "Cody Avila is a software developer with 4 years of experience. Skilled in FastAPI, Machine Learning, Kubernetes, TensorFlow, Node.js. Has worked in roles involving MongoDB at Tyler, Patel and Hoffman, REST APIs at York-Wallace, FastAPI at Tyler, Patel and Hoffman, Python at Tyler, Patel and Hoffman, Data Analysis at Tyler, Patel and Hoffman. Educational background: Psychologist, occupational graduate from Galvan-Black University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, Machine Learning, React, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.6,
+    "label": 1
+  },
+  {
+    "cv_text": "Omar Everett is a software developer with 9 years of experience. Skilled in MongoDB, Kubernetes, PyTorch, AWS, Machine Learning. Has worked in roles involving SQL at Tucker-Ford, REST APIs at Wood-Gonzalez, Flask at Wood-Gonzalez, REST APIs at Wood-Gonzalez, TensorFlow at Wagner Ltd. Educational background: Horticulturist, commercial graduate from Stuart-West University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Agile, AWS, FastAPI, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.49,
+    "label": 0
+  },
+  {
+    "cv_text": "Amber Williams is a software developer with 6 years of experience. Skilled in Data Analysis, Git, SQL, Scrum, Machine Learning. Has worked in roles involving Agile at Browning Inc, TensorFlow at Thomas Ltd, Python at Stephens-Perry, FastAPI at Thomas Ltd, TensorFlow at Potter, Wong and Lawson. Educational background: Public house manager graduate from Miller-Morris University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, Agile, REST APIs, React. Must have strong collaboration and software development skills.",
+    "score": 0.62,
+    "label": 1
+  },
+  {
+    "cv_text": "Christopher Allen is a software developer with 7 years of experience. Skilled in MongoDB, React, Git, Node.js, Django. Has worked in roles involving REST APIs at Dixon-Beard, REST APIs at Gardner-Jones, CI/CD at Gardner-Jones, Django at Woodward, Webster and Ross, React at Woodward, Webster and Ross. Educational background: Fashion designer graduate from Lewis, Santos and Garcia University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, Machine Learning, React, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.55,
+    "label": 0
+  },
+  {
+    "cv_text": "Mark Edwards is a software developer with 5 years of experience. Skilled in Python, Django, CI/CD, Agile, Flask. Has worked in roles involving TensorFlow at Morgan, Fischer and Houston, Kubernetes at Morgan, Fischer and Houston, Django at Perkins LLC, PyTorch at Perkins LLC, React at Gill Inc. Educational background: Charity officer graduate from Torres Ltd University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in REST APIs, React, CI/CD, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.4,
+    "label": 0
+  },
+  {
+    "cv_text": "Jennifer Hunter is a software developer with 6 years of experience. Skilled in Kubernetes, MongoDB, Docker, Machine Learning, Flask. Has worked in roles involving CI/CD at Lopez-Adams, Docker at Lopez, Lozano and Campbell, FastAPI at Duncan, Owens and Shah, Machine Learning at Lopez, Lozano and Campbell, Django at Jones-Long. Educational background: Landscape architect graduate from Adams-Mcbride University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, React, AWS, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.36,
+    "label": 0
+  },
+  {
+    "cv_text": "Jason Young is a software developer with 5 years of experience. Skilled in FastAPI, Python, Kubernetes, SQL, AWS. Has worked in roles involving PyTorch at Yu, Perry and Horton, Agile at Weaver Inc, CI/CD at Robles, Phelps and Campbell, Flask at Rivera and Sons, Docker at Moore, Barton and Cunningham. Educational background: Meteorologist graduate from Cantu-Nguyen University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, Docker, CI/CD, Python. Must have strong collaboration and software development skills.",
+    "score": 0.78,
+    "label": 1
+  },
+  {
+    "cv_text": "Matthew Huerta is a software developer with 10 years of experience. Skilled in Node.js, SQL, Agile, AWS, PyTorch. Has worked in roles involving Node.js at Hodges-Aguirre, Python at Kim-Steele, CI/CD at Cannon-Garza, React at Williams Group, Data Analysis at Stewart, Montoya and Tucker. Educational background: Designer, furniture graduate from Stewart, Ramirez and Hogan University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in REST APIs, CI/CD, AWS, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.78,
+    "label": 1
+  },
+  {
+    "cv_text": "Kathleen Brown is a software developer with 10 years of experience. Skilled in Docker, Scrum, Django, CI/CD, Data Analysis. Has worked in roles involving Flask at Bruce PLC, Git at Sheppard-Browning, Django at Yates, Fischer and Bautista, Docker at Bruce PLC, Django at Pope-Ruiz. Educational background: Television production assistant graduate from Frey, Bryant and Morgan University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, React, SQL, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.84,
+    "label": 1
+  },
+  {
+    "cv_text": "Jessica Ward is a software developer with 7 years of experience. Skilled in MongoDB, CI/CD, Git, React, AWS. Has worked in roles involving React at Tran LLC, AWS at Gutierrez Group, MongoDB at Roberts Inc, Git at Roberts Inc, Scrum at Potts Ltd. Educational background: Programmer, systems graduate from Fowler-Hess University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, SQL, CI/CD, FastAPI. Must have strong collaboration and software development skills.",
+    "score": 0.82,
+    "label": 1
+  },
+  {
+    "cv_text": "Timothy Rojas is a software developer with 4 years of experience. Skilled in Scrum, SQL, Kubernetes, CI/CD, TensorFlow. Has worked in roles involving Data Analysis at Byrd Ltd, MongoDB at Black, House and Cox, TensorFlow at Fitzgerald PLC, React at Black, House and Cox, Kubernetes at Mooney-Baker. Educational background: Film/video editor graduate from Burgess Ltd University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Machine Learning, Python, React. Must have strong collaboration and software development skills.",
+    "score": 0.65,
+    "label": 1
+  },
+  {
+    "cv_text": "Kelsey Matthews is a software developer with 9 years of experience. Skilled in Python, SQL, Django, PyTorch, Docker. Has worked in roles involving Python at York, Sanchez and Nixon, Scrum at Lopez, Williams and Wagner, AWS at Brown, Austin and Buckley, FastAPI at Jackson Inc, Docker at Dillon, Houston and Gomez. Educational background: Air cabin crew graduate from Castro-Silva University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Agile, REST APIs, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.31,
+    "label": 0
+  },
+  {
+    "cv_text": "Cameron Gibson is a software developer with 5 years of experience. Skilled in Docker, Flask, Agile, Python, Data Analysis. Has worked in roles involving Git at Smith and Sons, Scrum at Wilson-Thompson, Machine Learning at Hale Group, Python at Guerra, Davis and Alexander, REST APIs at Jones-Roy. Educational background: Engineer, production graduate from Sullivan-Martinez University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, REST APIs, CI/CD, React. Must have strong collaboration and software development skills.",
+    "score": 0.44,
+    "label": 0
+  },
+  {
+    "cv_text": "Kayla Baker is a software developer with 3 years of experience. Skilled in React, Node.js, Git, Scrum, AWS. Has worked in roles involving MongoDB at Mercado-Eaton, PyTorch at Snyder-Robinson, SQL at Davis, Hughes and Carroll, FastAPI at Skinner, Taylor and Ortiz, Kubernetes at Lopez, Farley and Perez. Educational background: Press photographer graduate from Martin-Kelly University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, Docker, SQL, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.52,
+    "label": 0
+  },
+  {
+    "cv_text": "Christopher Johnson is a software developer with 2 years of experience. Skilled in PyTorch, Django, Git, Scrum, Python. Has worked in roles involving Data Analysis at Cabrera, Erickson and Carr, Scrum at Short-Robinson, TensorFlow at Fisher Ltd, MongoDB at Mcgrath Ltd, React at Cabrera, Erickson and Carr. Educational background: Corporate treasurer graduate from Hernandez Group University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in REST APIs, Python, AWS, Machine Learning. Must have strong collaboration and software development skills.",
+    "score": 0.68,
+    "label": 1
+  },
+  {
+    "cv_text": "Nicholas Walters is a software developer with 9 years of experience. Skilled in MongoDB, CI/CD, Scrum, Python, Git. Has worked in roles involving REST APIs at Cardenas Ltd, SQL at Benson, Hughes and Lopez, REST APIs at Clark, Campbell and Russell, AWS at Clark, Campbell and Russell, Scrum at Mullen PLC. Educational background: Arboriculturist graduate from Page-Roberson University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in CI/CD, Agile, AWS, FastAPI. Must have strong collaboration and software development skills.",
+    "score": 0.91,
+    "label": 1
+  },
+  {
+    "cv_text": "Shannon Williams is a software developer with 2 years of experience. Skilled in REST APIs, Kubernetes, React, Flask, Node.js. Has worked in roles involving TensorFlow at Sanders-Palmer, REST APIs at Sanders-Palmer, Machine Learning at Klein Group, Docker at Ford-Vincent, Docker at Velazquez Inc. Educational background: Estate agent graduate from Barron and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, Docker, AWS, Python. Must have strong collaboration and software development skills.",
+    "score": 0.65,
+    "label": 1
+  },
+  {
+    "cv_text": "Luis Williams is a software developer with 7 years of experience. Skilled in AWS, Docker, Scrum, PyTorch, React. Has worked in roles involving Agile at Evans LLC, Machine Learning at Frost-Jackson, React at Young-Martinez, React at Rodriguez, Wolf and Bell, Flask at Conner-Solis. Educational background: Forensic psychologist graduate from Sanchez PLC University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, Python, CI/CD, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.86,
+    "label": 1
+  },
+  {
+    "cv_text": "Ronald Haley is a software developer with 5 years of experience. Skilled in Node.js, FastAPI, Data Analysis, Git, SQL. Has worked in roles involving Python at Wilkerson, Moore and Tyler, PyTorch at Wilkerson, Moore and Tyler, REST APIs at Hale-Miller, SQL at Carpenter, Figueroa and Johnson, CI/CD at Wright-Bullock. Educational background: Loss adjuster, chartered graduate from Hawkins LLC University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, CI/CD, Python, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.65,
+    "label": 1
+  },
+  {
+    "cv_text": "Linda Moore is a software developer with 8 years of experience. Skilled in Kubernetes, CI/CD, SQL, Machine Learning, React. Has worked in roles involving CI/CD at Fuentes-Henderson, CI/CD at Reed, Bush and Glenn, Agile at Nguyen LLC, PyTorch at Jackson Inc, SQL at Fuentes-Henderson. Educational background: Scientist, audiological graduate from Anderson Group University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Agile, Machine Learning, React, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.56,
+    "label": 0
+  },
+  {
+    "cv_text": "Thomas Marquez is a software developer with 1 years of experience. Skilled in Agile, Kubernetes, Docker, REST APIs, Git. Has worked in roles involving Node.js at Sandoval-Hunter, Agile at Mcdonald, Huber and Evans, Flask at Sandoval-Hunter, PyTorch at Sandoval-Hunter, FastAPI at Washington-Barnes. Educational background: TEFL teacher graduate from Robertson, Hill and Brown University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in AWS, Docker, Machine Learning, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.32,
+    "label": 0
+  },
+  {
+    "cv_text": "William Bolton is a software developer with 5 years of experience. Skilled in REST APIs, Machine Learning, Agile, TensorFlow, Data Analysis. Has worked in roles involving PyTorch at Hall-Camacho, Django at Hartman, Adams and Stevenson, REST APIs at Bartlett, Chavez and Petersen, Django at Stark-Li, TensorFlow at Medina PLC. Educational background: Scientist, marine graduate from Diaz, Bailey and Gibson University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, AWS, FastAPI, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.32,
+    "label": 0
+  },
+  {
+    "cv_text": "Nicole Bush is a software developer with 5 years of experience. Skilled in Machine Learning, Docker, CI/CD, SQL, Django. Has worked in roles involving Agile at Mccoy, Stone and Evans, MongoDB at Moore PLC, Agile at Delgado and Sons, Git at Thompson, Mathis and Hampton, Git at Mitchell PLC. Educational background: Photographer graduate from Browning-Warner University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, SQL, FastAPI, React. Must have strong collaboration and software development skills.",
+    "score": 0.52,
+    "label": 0
+  },
+  {
+    "cv_text": "Ann Aguirre is a software developer with 8 years of experience. Skilled in CI/CD, Scrum, AWS, Data Analysis, SQL. Has worked in roles involving CI/CD at Foster, Smith and Robbins, CI/CD at Taylor, Richards and Gomez, Flask at Aguilar-Carrillo, React at Harris, Clements and Hayes, Python at Hall-Galvan. Educational background: Waste management officer graduate from Smith, Richardson and Torres University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, SQL, AWS, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.87,
+    "label": 1
+  },
+  {
+    "cv_text": "Denise Adkins is a software developer with 9 years of experience. Skilled in Node.js, Flask, Python, FastAPI, Git. Has worked in roles involving CI/CD at Martin Inc, FastAPI at Martin Inc, React at Jensen, Miller and Jordan, PyTorch at Carr-Moss, MongoDB at Jensen, Miller and Jordan. Educational background: Exhibition designer graduate from Ruiz-Bennett University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, CI/CD, Docker, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.88,
+    "label": 1
+  },
+  {
+    "cv_text": "Tabitha Daugherty is a software developer with 6 years of experience. Skilled in Agile, Node.js, React, FastAPI, Python. Has worked in roles involving Django at Salazar and Sons, React at Jones Ltd, Django at Smith and Sons, SQL at Jones Ltd, Python at Williams Ltd. Educational background: Brewing technologist graduate from Eaton-Jennings University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Machine Learning, REST APIs, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.62,
+    "label": 1
+  },
+  {
+    "cv_text": "Nathan House is a software developer with 2 years of experience. Skilled in Python, REST APIs, AWS, Agile, Data Analysis. Has worked in roles involving Data Analysis at Adams, Miller and Johns, AWS at Owen, Williams and Smith, CI/CD at Jones Ltd, Git at Costa, Nelson and Hood, React at Quinn, Murphy and Johnson. Educational background: Research officer, government graduate from Rose-Hooper University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in AWS, REST APIs, Python, Machine Learning. Must have strong collaboration and software development skills.",
+    "score": 0.69,
+    "label": 1
+  },
+  {
+    "cv_text": "John Lewis is a software developer with 5 years of experience. Skilled in Node.js, Flask, Data Analysis, TensorFlow, REST APIs. Has worked in roles involving Python at Larson Group, Machine Learning at Mayo, Aguilar and Wheeler, Python at Garza, Olson and Miller, Python at Wheeler LLC, Node.js at Bell-Mercado. Educational background: Gaffer graduate from Douglas Ltd University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in AWS, CI/CD, Agile, React. Must have strong collaboration and software development skills.",
+    "score": 0.4,
+    "label": 0
+  },
+  {
+    "cv_text": "April Smith is a software developer with 2 years of experience. Skilled in Python, Node.js, AWS, REST APIs, Git. Has worked in roles involving MongoDB at Garcia, May and Brown, Kubernetes at Rodriguez-Park, Machine Learning at Cohen, Daniel and Stokes, SQL at Mendoza, Decker and Smith, Node.js at Mendoza, Decker and Smith. Educational background: Engineer, maintenance graduate from Trujillo, Thompson and Price University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Docker, Agile, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.65,
+    "label": 1
+  },
+  {
+    "cv_text": "Veronica Jackson is a software developer with 3 years of experience. Skilled in PyTorch, CI/CD, Scrum, SQL, Git. Has worked in roles involving CI/CD at Noble, Anderson and Lowery, Data Analysis at Noble, Anderson and Lowery, Git at Noble, Anderson and Lowery, Machine Learning at Fox-Anderson, Agile at Chang-Douglas. Educational background: Arts development officer graduate from Wright, Brown and Rojas University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, CI/CD, Docker, Python. Must have strong collaboration and software development skills.",
+    "score": 0.49,
+    "label": 0
+  },
+  {
+    "cv_text": "Tiffany Young is a software developer with 2 years of experience. Skilled in FastAPI, Data Analysis, Node.js, SQL, MongoDB. Has worked in roles involving Git at Banks, Johnson and Miles, Kubernetes at Martinez, Atkins and Barton, PyTorch at Patterson-Harvey, Python at Wilson-Olsen, Data Analysis at Patterson-Harvey. Educational background: Quality manager graduate from Soto, Acosta and Lowery University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, Docker, CI/CD, Python. Must have strong collaboration and software development skills.",
+    "score": 0.58,
+    "label": 0
+  },
+  {
+    "cv_text": "Laurie Gonzalez is a software developer with 6 years of experience. Skilled in Data Analysis, CI/CD, TensorFlow, SQL, React. Has worked in roles involving Django at Romero, Little and Torres, Docker at Carney Group, Docker at Monroe, Lewis and Rogers, Docker at Bird and Sons, Data Analysis at Thompson-Brown. Educational background: Programmer, applications graduate from Mueller and Sons University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, REST APIs, Docker, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.7,
+    "label": 1
+  },
+  {
+    "cv_text": "Anthony Griffin is a software developer with 6 years of experience. Skilled in FastAPI, Scrum, Data Analysis, Kubernetes, REST APIs. Has worked in roles involving React at Allen LLC, Machine Learning at Silva, Ramirez and Carlson, Scrum at Robbins, Lynn and Schmidt, Data Analysis at Silva, Ramirez and Carlson, PyTorch at Acosta PLC. Educational background: Garment/textile technologist graduate from Rush, Walker and Martinez University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, CI/CD, AWS, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.62,
+    "label": 1
+  },
+  {
+    "cv_text": "Amber Tran is a software developer with 4 years of experience. Skilled in Node.js, Data Analysis, React, TensorFlow, Scrum. Has worked in roles involving Flask at Johnson and Sons, Git at Johnson and Sons, CI/CD at Adams-Snyder, REST APIs at Jimenez-Ryan, AWS at Reynolds, Moore and Barnes. Educational background: Curator graduate from Herrera, Hudson and Johnson University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, Python, CI/CD, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.82,
+    "label": 1
+  },
+  {
+    "cv_text": "Mark Boyle is a software developer with 1 years of experience. Skilled in Python, Node.js, Data Analysis, Scrum, Flask. Has worked in roles involving Python at Santiago, Hernandez and Ross, Data Analysis at Rogers Ltd, AWS at Santiago, Hernandez and Ross, Python at Green-Hansen, React at Trujillo-Hernandez. Educational background: Designer, ceramics/pottery graduate from Schaefer, Martin and Lucero University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, Agile, REST APIs, SQL. Must have strong collaboration and software development skills.",
+    "score": 0.74,
+    "label": 1
+  },
+  {
+    "cv_text": "Tammy Jackson is a software developer with 2 years of experience. Skilled in Python, React, CI/CD, PyTorch, Docker. Has worked in roles involving Machine Learning at Rodriguez-Carter, Docker at Herrera-Thomas, React at Mccall, Mahoney and Schmidt, React at Young, Edwards and Morales, Machine Learning at Carson, Oconnor and Barron. Educational background: Materials engineer graduate from Smith-Powell University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in REST APIs, SQL, Machine Learning, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.38,
+    "label": 0
+  },
+  {
+    "cv_text": "David King is a software developer with 5 years of experience. Skilled in TensorFlow, Kubernetes, Python, Scrum, CI/CD. Has worked in roles involving CI/CD at Wyatt, Watkins and Robbins, Flask at Guzman, Kelly and Holloway, FastAPI at Lawson-Brown, Python at Murphy, Ramirez and Smith, AWS at Lawson-Brown. Educational background: Nurse, mental health graduate from Brown, Tyler and Lucas University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, CI/CD, REST APIs, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.89,
+    "label": 1
+  },
+  {
+    "cv_text": "Diane Rangel is a software developer with 6 years of experience. Skilled in Python, PyTorch, Django, Scrum, Data Analysis. Has worked in roles involving Data Analysis at Hunter, Davis and Smith, AWS at Farley Ltd, Docker at Hodges-Sanchez, AWS at Stewart-Cooley, Machine Learning at Flowers PLC. Educational background: Licensed conveyancer graduate from Moore Ltd University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, Agile, React, AWS. Must have strong collaboration and software development skills.",
+    "score": 0.41,
+    "label": 0
+  },
+  {
+    "cv_text": "Brandon Gregory is a software developer with 1 years of experience. Skilled in Docker, Python, Django, Scrum, REST APIs. Has worked in roles involving FastAPI at Davis, Coleman and Reed, React at Mcdonald-Jones, TensorFlow at Davis, Coleman and Reed, FastAPI at Martinez Inc, PyTorch at Barker and Sons. Educational background: Naval architect graduate from Patton-Jones University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, AWS, REST APIs, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.68,
+    "label": 1
+  },
+  {
+    "cv_text": "Jill Haas is a software developer with 1 years of experience. Skilled in AWS, React, Scrum, Machine Learning, Agile. Has worked in roles involving AWS at Galvan-Wolfe, Python at Duarte-Gutierrez, TensorFlow at Wilson-Wilson, Git at Duarte-Gutierrez, REST APIs at Cruz, Bowen and Braun. Educational background: Quality manager graduate from Leon-Black University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, Python, AWS, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.36,
+    "label": 0
+  },
+  {
+    "cv_text": "Jonathan Peterson is a software developer with 6 years of experience. Skilled in Django, SQL, Docker, Node.js, Scrum. Has worked in roles involving TensorFlow at Perry, Meyer and Rasmussen, Node.js at Lane, Robles and Freeman, AWS at Hill-Rich, Kubernetes at Coleman and Sons, TensorFlow at Coleman and Sons. Educational background: Medical technical officer graduate from Moore-Franklin University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, FastAPI, AWS, React. Must have strong collaboration and software development skills.",
+    "score": 0.39,
+    "label": 0
+  },
+  {
+    "cv_text": "Kayla Hall is a software developer with 2 years of experience. Skilled in Scrum, Agile, TensorFlow, PyTorch, Data Analysis. Has worked in roles involving MongoDB at Conway-Woods, PyTorch at Brown-Munoz, Docker at Brown-Munoz, Kubernetes at Davis, Brown and Patterson, SQL at Ball-Walker. Educational background: Operational investment banker graduate from Watkins Inc University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Python, AWS, React, REST APIs. Must have strong collaboration and software development skills.",
+    "score": 0.89,
+    "label": 1
+  },
+  {
+    "cv_text": "Steve Hart is a software developer with 9 years of experience. Skilled in Docker, React, PyTorch, MongoDB, Data Analysis. Has worked in roles involving AWS at Anderson, Lewis and Johnson, TensorFlow at Petersen, Escobar and Blair, MongoDB at Hansen-Griffin, TensorFlow at Martin, Richardson and Patterson, AWS at Weaver, Jenkins and Gonzalez. Educational background: Public relations officer graduate from Hernandez PLC University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, Python, Docker, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.57,
+    "label": 0
+  },
+  {
+    "cv_text": "Ronnie Cantu is a software developer with 3 years of experience. Skilled in React, PyTorch, REST APIs, AWS, Git. Has worked in roles involving Kubernetes at Lee, Griffith and Coleman, FastAPI at Hopkins-Hill, REST APIs at Bolton Ltd, Agile at Hopkins-Hill, Docker at Phillips-Spencer. Educational background: Sales promotion account executive graduate from Chen-Hayden University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in SQL, Machine Learning, Agile, FastAPI. Must have strong collaboration and software development skills.",
+    "score": 0.64,
+    "label": 1
+  },
+  {
+    "cv_text": "Jimmy Gray is a software developer with 6 years of experience. Skilled in PyTorch, Kubernetes, Machine Learning, Flask, AWS. Has worked in roles involving Node.js at Cervantes PLC, Scrum at Brown-Murray, Git at Smith-Vargas, SQL at Cervantes PLC, Kubernetes at Smith-Vargas. Educational background: Designer, graphic graduate from Moore, Santos and Owen University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, FastAPI, CI/CD, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.37,
+    "label": 0
+  },
+  {
+    "cv_text": "Amanda Garcia is a software developer with 6 years of experience. Skilled in AWS, Data Analysis, Scrum, REST APIs, PyTorch. Has worked in roles involving Django at Campos Inc, React at Jordan Group, Kubernetes at Ross and Sons, Kubernetes at Gutierrez-Carlson, MongoDB at Moreno, Peters and Mcdaniel. Educational background: Community pharmacist graduate from Martin, Franklin and Taylor University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in React, REST APIs, Agile, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.31,
+    "label": 0
+  },
+  {
+    "cv_text": "Joseph Rasmussen is a software developer with 10 years of experience. Skilled in TensorFlow, Agile, Docker, REST APIs, AWS. Has worked in roles involving PyTorch at Cruz, Stokes and Johnson, Agile at Diaz Ltd, Data Analysis at Mills-Mcdonald, SQL at Schmidt Group, MongoDB at Schmidt Group. Educational background: Engineer, water graduate from Brown, Hayden and Macias University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in AWS, React, REST APIs, Machine Learning. Must have strong collaboration and software development skills.",
+    "score": 0.38,
+    "label": 0
+  },
+  {
+    "cv_text": "Nicole Contreras is a software developer with 1 years of experience. Skilled in SQL, MongoDB, Docker, Data Analysis, Python. Has worked in roles involving TensorFlow at Hendricks, Greene and Williams, REST APIs at Davis, Rios and Alvarez, Docker at Hendricks, Greene and Williams, CI/CD at Davis, Rios and Alvarez, FastAPI at Singleton-Valdez. Educational background: Recruitment consultant graduate from Dixon, Ramirez and Coffey University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Docker, SQL, Machine Learning, Python. Must have strong collaboration and software development skills.",
+    "score": 0.41,
+    "label": 0
+  },
+  {
+    "cv_text": "Kelly Barry is a software developer with 10 years of experience. Skilled in Git, Data Analysis, SQL, Docker, PyTorch. Has worked in roles involving Data Analysis at Green-Grant, Node.js at Brown, Church and Gregory, TensorFlow at Leonard Ltd, SQL at Dunn, Guerra and Haynes, CI/CD at Blanchard-Clark. Educational background: Tax adviser graduate from Gates, Freeman and Whitaker University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in REST APIs, AWS, FastAPI, Python. Must have strong collaboration and software development skills.",
+    "score": 0.63,
+    "label": 1
+  },
+  {
+    "cv_text": "Eric Gomez is a software developer with 1 years of experience. Skilled in Machine Learning, FastAPI, Node.js, Agile, Git. Has worked in roles involving Node.js at Rogers, Wilson and Anderson, AWS at White and Sons, Scrum at Harris, Mata and Donovan, Kubernetes at White and Sons, CI/CD at Stone PLC. Educational background: Trade union research officer graduate from Taylor, Diaz and Mcintyre University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in REST APIs, Agile, Python, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.63,
+    "label": 1
+  },
+  {
+    "cv_text": "Vanessa Gilbert is a software developer with 8 years of experience. Skilled in React, AWS, Docker, Node.js, Kubernetes. Has worked in roles involving Git at Lewis-Hanson, TensorFlow at Munoz PLC, PyTorch at Russo Ltd, REST APIs at Nguyen-Castillo, Machine Learning at Tucker Inc. Educational background: Barista graduate from Moore-Benson University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, CI/CD, React, Docker. Must have strong collaboration and software development skills.",
+    "score": 0.37,
+    "label": 0
+  },
+  {
+    "cv_text": "Bobby Adams is a software developer with 4 years of experience. Skilled in Flask, Data Analysis, PyTorch, CI/CD, Git. Has worked in roles involving React at Mullins Ltd, Flask at Torres-Welch, Scrum at Jones, Johnson and Allen, Flask at Grant, Sanchez and Lara, SQL at Mcconnell Group. Educational background: Theatre manager graduate from Rodriguez-Morales University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, Docker, Python, Machine Learning. Must have strong collaboration and software development skills.",
+    "score": 0.46,
+    "label": 0
+  },
+  {
+    "cv_text": "Kathryn Durham is a software developer with 10 years of experience. Skilled in SQL, Node.js, Machine Learning, Flask, Git. Has worked in roles involving TensorFlow at Bell-Chambers, Scrum at Hess-Esparza, Data Analysis at Ellis, Parsons and Potter, MongoDB at Sanchez Inc, FastAPI at Allen Group. Educational background: Designer, interior/spatial graduate from Fuller, Moore and Evans University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in FastAPI, REST APIs, SQL, React. Must have strong collaboration and software development skills.",
+    "score": 0.66,
+    "label": 1
+  },
+  {
+    "cv_text": "Trevor Bullock is a software developer with 7 years of experience. Skilled in AWS, REST APIs, Docker, CI/CD, Machine Learning. Has worked in roles involving Python at Howard-Smith, CI/CD at Ross Group, Scrum at Smith-Thompson, Node.js at Downs and Sons, Scrum at Ross Group. Educational background: Database administrator graduate from Russell PLC University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, AWS, CI/CD, Agile. Must have strong collaboration and software development skills.",
+    "score": 0.54,
+    "label": 0
+  },
+  {
+    "cv_text": "Christian Mccormick is a software developer with 10 years of experience. Skilled in Agile, Scrum, Flask, PyTorch, Python. Has worked in roles involving Kubernetes at Hays-Brown, TensorFlow at Osborne, Bryant and Cook, FastAPI at Coleman, Brennan and Boyd, CI/CD at Flores Group, React at Coleman, Brennan and Boyd. Educational background: Surveyor, commercial/residential graduate from Garcia-Garrett University. Passionate about technology and team collaboration.",
+    "job_description": "We are hiring a developer experienced in Machine Learning, Docker, Python, CI/CD. Must have strong collaboration and software development skills.",
+    "score": 0.68,
+    "label": 1
+  }
+]

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.db
+node_modules/
+cv_classifier/models/classifier.pt

@@ -1,0 +1,32 @@
+# Core backend
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+
+# Authentication
+fastapi-users[sqlalchemy]
+
+# Cloudinary
+cloudinary
+
+# CV Parsing and NLP
+pdfplumber
+python-docx
+transformers
+torch
+
+# Langchain + RAG
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+
+# Environment config
+python-dotenv
+
+# UUID and DB
+uuid
+alembic
